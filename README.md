@@ -1,5 +1,11 @@
-<h1>Octernship Information</h1>
+<h3>Greetings, I am Adithya S Kolavi</h3>
+I am delighted to present my ideas on monetizing B2C AI solutions. My approach involved identifying the current problems faced by students like myself and devising effective solutions to address them and researching on the best ways the solution can be motitized to be 
+<li>viable</li>
+<li>sustainable</li>
+<li>profitable</li>
+As a student, I have experienced the frustration of ineffective study methods leading to wasted time and effort. To tackle this issue, I conceived an innovative idea called "StudyPal" that utilizes AI to enhance the studying process. As I share my ideas on <a href="https://github.com/adithya-s-k/textify/blob/8fc296f35856cca6b27649b13bdc1c5d1d3d8f76/README.md" target="_blank">monetizing this solution</a>, I am also eager to showcase my skills and enthusiasm for the upcoming internship program. Therefore, I have taken the initiative to implement a part of my proposed solution by developing a website using Next.js and Fast API as the backend, with Chatgpt API integration for the AI component
 
+<h1>Octernship Information</h1>
 
 <h3>Company information</h3>
 We are building a platform for easy discovery and commercialization of AI solutions. Think of us like "AppStore for AI" but with more diverse monetization options (Memberships, Targeted ads, Review farming, etc).
@@ -45,4 +51,3 @@ Students are expected to use the GitHub Flow when working on their project.
 Making changes on the auto generated feedback branch to complete the task
 Using the auto generated Feedback Pull Request for review and submission
 Using GitHub Discussions to ask any relevant questions regarding the project
-
