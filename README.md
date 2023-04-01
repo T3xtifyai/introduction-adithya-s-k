@@ -3,7 +3,7 @@ I am delighted to present my ideas on monetizing B2C AI solutions. My approach i
 <li>viable</li>
 <li>sustainable</li>
 <li>profitable</li>
-As a student, I have experienced the frustration of ineffective study methods leading to wasted time and effort. To tackle this issue, I conceived an innovative idea called "StudyPal" that utilizes AI to enhance the studying process. As I share my ideas on <a href="https://github.com/adithya-s-k/textify/blob/8fc296f35856cca6b27649b13bdc1c5d1d3d8f76/README.md" target="_blank">monetizing this solution</a>, I am also eager to showcase my skills and enthusiasm for the upcoming internship program. Therefore, I have taken the initiative to implement a part of my proposed solution by developing a website using Next.js and Fast API as the backend, with Chatgpt API integration for the AI component
+As a student, I have experienced the frustration of ineffective study methods leading to wasted time and effort. To tackle this issue, I conceived an innovative idea called "StudyPal" that utilizes AI to enhance the studying process. As I share my ideas on <a href="https://github.com/T3xtifyai/introduction-adithya-s-k/blob/main/SOLUTION.md" target="_blank">monetizing this solution</a>, I am also eager to showcase my skills and enthusiasm for the upcoming internship program. Therefore, I have taken the initiative to implement a part of my proposed solution by developing a website using Next.js and Fast API as the backend, with Chatgpt API integration for the AI component
 
 <h1>Octernship Information</h1>
 
