@@ -86,3 +86,10 @@ Some similar ideas to the AI Study Buddy include:
 - A virtual tutor app that provides personalized study plans and feedback to students.
 - A language learning app that uses AI to generate quizzes and practice exercises based on the user's proficiency level.
 - A note-taking app that uses AI to summarize and categorize notes for easier review.
+
+## References
+
+- [https://vargasvoice.medium.com/how-to-make-money-with-artificial-intelligence-bc972a6cba0b](https://vargasvoice.medium.com/how-to-make-money-with-artificial-intelligence-bc972a6cba0b)
+- [https://cisr.mit.edu/publication/2022_0601_AdvancedAICapabilities_WixomSomehBeath](https://cisr.mit.edu/publication/2022_0601_AdvancedAICapabilities_WixomSomehBeath)
+- [https://www.clickworker.com/customer-blog/ways-to-make-money-with-machine-learning/](https://www.clickworker.com/customer-blog/ways-to-make-money-with-machine-learning/)
+- [https://www.tcs.com/what-we-do/industries/communications-media-information-services/white-paper/intelligent-ways-data-monetization](https://www.tcs.com/what-we-do/industries/communications-media-information-services/white-paper/intelligent-ways-data-monetization)
