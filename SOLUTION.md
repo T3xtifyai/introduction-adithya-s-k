@@ -1,8 +1,8 @@
 # Study Pal
 
-# [Website](textify-adithya-s-k.vercel.app)
+# [Website](https://textify-adithya-s-k.vercel.app/)
 
-# [Python Notebook]()
+# [Python Notebook](https://github.com/T3xtifyai/introduction-adithya-s-k/blob/main/backend/app.ipynb)
 
 ## Problem Statement
 
