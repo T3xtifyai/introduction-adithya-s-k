@@ -36,7 +36,7 @@ const FileUpload = () => {
   };
 
   return (
-    <div className="bg-gray-800 min-h-screen flex items-center justify-center">
+    <div className="bg-gray-800 min-h-screen flex flex-col items-center justify-center">
       <form
         onSubmit={handleSubmit}
         className="bg-gray-700 p-8 rounded shadow-md w-96"
@@ -55,6 +55,7 @@ const FileUpload = () => {
           Upload
         </button>
       </form>
+      <div>Please hold on the backend infrastructure is being setup</div>
     </div>
   );
 };

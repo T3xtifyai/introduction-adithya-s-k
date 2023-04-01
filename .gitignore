@@ -1,3 +1,4 @@
 .vscode/settings.json
 backend/.gitignore
 
+backend/.env
